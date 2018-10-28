@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Basic React with Redux implementation
 
 
 
